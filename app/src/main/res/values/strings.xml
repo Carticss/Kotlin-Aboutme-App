@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">JuanSito</string>
+    <string name="yellow_start">Yellow Start</string>
+    <string name="bio">Mi name is Juan.
+    \n\nI love music
+    \n\nI don\'t know why i\'m doing this, i prefer to eat or sleep
+    \n\nText
+    \n\nText
+    \n\nText
+    \n\nText
+    \n\nText
+    \n\nText
+    \n\nText
+    \n\nText
+    \n\nText
+    \n\nText
+    \n\nText
+    \n\nText
+    \n\nText
+    \n\nText
+    \n\nText
+    \n\nText
+    </string>
+    <string name="nickname">Insert your nickname</string>
+    <string name="done">Done</string>
+</resources>
